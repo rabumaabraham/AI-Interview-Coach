@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>AI Interview</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="container">
+    <h1>AI Interview</h1>
+
+    <!-- Job description input -->
+    <label for="jobDescription">Paste Job Description:</label>
+    <textarea id="jobDescription" placeholder="Paste the job description here..."></textarea>
+
+    <button id="startInterview">Start Interview</button>
+    <div class="question" id="aiQuestion"></div>
+    <div class="answer" id="userAnswer"></div>
+
+    <!-- Feedback Section -->
+    <div class="feedback" id="feedback"></div>
+  </div>
+  <video id="video" width="320" height="240" autoplay muted></video>
+
+
+  <script src="script.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/face-api.js"></script>
+  <script defer src="faceDetection.js"></script>
+
+</body>
+
+</html>
