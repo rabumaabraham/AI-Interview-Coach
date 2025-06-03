@@ -1,12 +1,12 @@
 # AI Interview Coach
 
-**AI Interview Coach** is a smart, interactive web application that simulates real-world job interviews using artificial intelligence. Built with HTML, CSS, and JavaScript, it empowers users to practice interviews with adaptive AI-generated questions, voice-based interaction, and insightful feedback—both verbal and non-verbal.
+**AI Interview Coach** is a smart, interactive web application that simulates real-world job interviews using artificial intelligence. It empowers users to practice interviews with adaptive AI-generated questions, voice-based interaction, and insightful feedback.
 
 ---
 
 ## 🚀 Project Overview
 
-AI Interview Coach transforms traditional interview prep by creating dynamic, personalized experiences. By analyzing a job description, the application generates custom questions, reads them aloud, listens to your spoken responses, and delivers structured, AI-powered feedback—including evaluation of your facial expressions and vocal tone to help improve both verbal and non-verbal communication skills.
+AI Interview Coach transforms traditional interview prep by creating dynamic, personalized experiences. By analyzing a job description, the application generates custom questions, reads them aloud, listens to your spoken responses, and delivers structured, AI-powered feedback including evaluation of your facial expressions and vocal tone to help improve both verbal and non verbal communication skills.
 
 ---
 
@@ -57,11 +57,11 @@ AI Interview Coach transforms traditional interview prep by creating dynamic, pe
 
 ## 🧰 Tech Stack
 
-- **Frontend:** HTML5, CSS3, Vanilla JavaScript  
+- **Frontend:** HTML5, CSS3, JavaScript  
 - **AI Integration:** OpenAI API for question generation and feedback  
 - **Voice Interaction:** Web Speech API (Speech Recognition + Text-to-Speech)  
-- **Facial Feedback:** Face detection + expression recognition models (e.g., face-api.js)  
-- **Server (Optional):** Node.js + Express.js  
+- **Facial Feedback:** Face detection + expression recognition models 
+- **Server:** Node.js + Express.js  
 - **Planned Data Storage:** MongoDB (for storing sessions, resumes, history, etc.)
 
 ---
@@ -70,10 +70,10 @@ AI Interview Coach transforms traditional interview prep by creating dynamic, pe
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-interview-coach.git
+git clone https://github.com/rabumaabraham/AI-Interview-Coach.git
 
 # Navigate into the project directory
-cd ai-interview-coach
+cd AI-Interview-Coach
 
 # Install server-side dependencies (if using Node backend)
 npm install
@@ -95,11 +95,11 @@ http://localhost:5000
 ## 💡 Usage Guide
 
 1. Paste the job description into the input field.
-2. Click "Generate Questions" to receive AI-curated interview prompts.
+2. Click "Start Interview" to receive AI curated interview prompts.
 3. Listen as each question is read aloud.
-4. Respond verbally to each prompt—your voice is captured in real-time.
+4. Respond verbally to each prompt, your voice is captured in real-time.
 5. Get instant feedback on your responses, including suggestions for improvement.
-6. (Optional) Enable camera for facial expression-based feedback.
+6. Enable camera for facial expression-based feedback.
 
 ---
 
@@ -107,7 +107,7 @@ http://localhost:5000
 
 We welcome contributions to enhance AI Interview Coach. You can:
 
-- Submit feature suggestions or bug reports via [Issues](https://github.com/yourusername/ai-interview-coach/issues)
+- Submit feature suggestions or bug reports via [Issues](https://github.com/rabumaabraham/AI-Interview-Coach/issues)
 - Fork the repo and open a Pull Request with improvements
 - Help test facial detection and feedback models
 
