@@ -38,21 +38,28 @@ AI Interview Coach transforms traditional interview prep by creating dynamic, pe
 ## 🛠️ Features in Progress
 
 - 🎥 **Answer Recording & Playback**
-  Record your spoken answers and replay them for self-review.
+     Record your spoken answers and replay them for self-review.
 
-- 🌐 **Multi-Language Support** — Practice interviews in different languages.
+- 🌐 **Multi-Language Support**
+     Practice interviews in different languages.
 
-- 📦 **Role-Based Question Packs** — Predefined question sets for specific career tracks (e.g., Developer, Analyst).
+- 📦 **Role-Based Question Packs**
+     Predefined question sets for specific career tracks (e.g., Developer, Analyst).
 
-- 📄 **Resume + JD Integration** — Upload resume and job description to generate highly tailored interview questions.
+- 📄 **Resume + JD Integration**
+     Upload resume and job description to generate highly tailored interview questions.
 
-- 🧑‍⚖️ **Mock Interview Mode** — Combines behavioral and technical questions in a full session.
+- 🧑‍⚖️ **Mock Interview Mode**
+     Combines behavioral and technical questions in a full session.
 
-- 🗣️ **Custom Interviewer Voice** — Choose the tone, gender, and style of the virtual interviewer.
+- 🗣️ **Custom Interviewer Voice**
+     Choose the tone, gender, and style of the virtual interviewer.
 
-- ⚙️ **Difficulty Levels** — Switch between Easy, Medium, and Hard question sets.
+- ⚙️ **Difficulty Levels**
+     Switch between Easy, Medium, and Hard question sets.
 
-- ⏰ **Daily Practice Reminders** — Encourages consistent practice with scheduled notifications.
+- ⏰ **Daily Practice Reminders**
+     Encourages consistent practice with scheduled notifications.
 
 ---
 
