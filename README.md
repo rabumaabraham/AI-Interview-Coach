@@ -37,7 +37,8 @@ AI Interview Coach transforms traditional interview prep by creating dynamic, pe
 
 ## 🛠️ Features in Progress
 
-- 🎥 **Answer Recording & Playback** <br> Record your spoken answers and replay them for self-review.
+- 🎥 **Answer Recording & Playback** <br>
+       Record your spoken answers and replay them for self-review.
 
 - 🌐 **Multi-Language Support**
      Practice interviews in different languages.
