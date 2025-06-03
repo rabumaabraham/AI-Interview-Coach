@@ -69,7 +69,7 @@ AI Interview Coach transforms traditional interview prep by creating dynamic, pe
 - **Frontend:** HTML5, CSS3, JavaScript  
 - **AI Integration:** OpenAI API for question generation and feedback  
 - **Voice Interaction:** Web Speech API (Speech Recognition + Text-to-Speech)  
-- **Facial Feedback:** Face detection + expression recognition models 
+- **Facial Feedback:** Face detection + expression recognition models (e.g., face-api.js)
 - **Server:** Node.js + Express.js  
 - **Planned Data Storage:** MongoDB (for storing sessions, resumes, history, etc.)
 
