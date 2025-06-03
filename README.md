@@ -33,6 +33,30 @@ AI Interview Coach transforms traditional interview prep by creating dynamic, pe
 - **Facial Expression Feedback**  
   Uses face detection and emotion recognition models to analyze non-verbal signals such as confidence, tone, and expression.
 
+  ## 🧠 Core Features
+
+- 📝 **Job Description Input**  
+  Paste any job description into the app to generate relevant and role-specific interview questions.
+
+- 🤖 **AI-Generated Questions**  
+  Uses NLP to create realistic and adaptive questions based on the provided job description.
+
+- 🔊 **Text-to-Speech Functionality**  
+  Reads questions aloud using browser-based speech synthesis to simulate real-time interview delivery.
+
+- 🎤 **Voice Response via Speech Recognition**  
+  Users answer aloud; the app captures spoken responses using the Web Speech API for a natural experience.
+
+- 🔄 **Adaptive Question Flow**  
+  Progresses through questions dynamically based on both the job context and user responses.
+
+- 💬 **AI Feedback on Answers**  
+  Provides tips on structure, clarity, and technical content to help improve each response.
+
+- 🎭 **Facial Expression Feedback**  
+  Uses face detection and emotion recognition models to analyze non-verbal signals such as confidence, tone, and expression.
+
+
 ---
 
 ## 🛠️ Features in Progress
