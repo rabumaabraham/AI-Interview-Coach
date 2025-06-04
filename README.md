@@ -123,10 +123,11 @@ We welcome contributions to enhance AI Interview Coach. You can:
 Please follow standard commit and PR etiquette for smoother collaboration.
 
 ---
-
+<!--
 ## 📄 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for full details.
+-->
 
 ---
 
